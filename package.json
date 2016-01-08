@@ -1,0 +1,28 @@
+{
+  "name": "koa-mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.8.1",
+    "bluebird": "^3.1.1",
+    "co": "^4.6.0",
+    "co-render": "^1.0.0",
+    "ejs-mate": "^2.3.0",
+    "koa": "^1.1.2",
+    "koa-router": "^5.3.0",
+    "lodash": "^3.10.1",
+    "log4js": "^0.6.29",
+    "swig": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.coding.net/fengxiaotx/koa-mvc.git"
+  },
+  "author": "Bane.Shi",
+  "license": "ISC"
+}
